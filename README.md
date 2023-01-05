@@ -1,3 +1,5 @@
+
+
 # Hey! My name is Sevon Rossi :wave:
 
 ## Full Stack Developer 
@@ -20,7 +22,7 @@
 3. Learn new programs
 
 
-![portfolio](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/324099719_727553528584023_112516863934361111_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_ohc=JntqX_ENNnQAX-QtFHY&_nc_ht=scontent-ord5-2.xx&oh=00_AfA9F-vOCHtviebdAidUfUquJmrUt5ncRVY-Zx00PzqN5Q&oe=63BCA5C6)
+
 
 
 
