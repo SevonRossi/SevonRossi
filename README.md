@@ -8,7 +8,7 @@
 ![html logo](https://img.icons8.com/color/2x/html-5.png)
 ![css logo](https://img.icons8.com/color/2x/css3.png)
 ![javascript logo](https://img.icons8.com/color/2x/javascript--v2.png)
-![Node_logo]([https://img.icons8.com/fluency/48/node-js.png](https://img.icons8.com/?size=100&id=54087&format=png&color=000000))
+![Node_logo](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)
 ![c sharp logo](https://img.icons8.com/color/2x/c-sharp-logo.png)
 ![sql logo](https://img.icons8.com/external-others-phat-plus/2x/external-connection-browser-and-interface-blue-others-phat-plus-6.png)
 ![react js logo](https://img.icons8.com/ultraviolet/2x/react.png)
